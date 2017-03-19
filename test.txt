@@ -1,0 +1,11 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 56D2-DF23
+
+ Directory of C:\Program Files (x86)\new kishore project
+
+19-Mar-17  12:51 PM    <DIR>          .
+19-Mar-17  12:51 PM    <DIR>          ..
+19-Mar-17  12:49 PM    <DIR>          another project
+19-Mar-17  12:51 PM                 0 test.txt
+               1 File(s)              0 bytes
+               3 Dir(s)   3,769,794,560 bytes free
